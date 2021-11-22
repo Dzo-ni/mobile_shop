@@ -1,0 +1,2 @@
+<!doctype html><html><meta charset='utf-8'></head><body><h1>Welcome to mobile shop dasddda</h1><br/>
+<p>Please, to activate your profile click on link <a >http://localhost/mobile_shop/verify.php?email=dzodzodzo343@yahoo.com&activation_code=random2</a></p></body></html>
